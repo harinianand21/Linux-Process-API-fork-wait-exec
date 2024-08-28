@@ -48,7 +48,8 @@ Test the C Program for the desired output.
 
 ##OUTPUT
 
-![Uploading 310737958-33a2ae89-7e9d-478e-b9ad-1b6d4363d1ce.png…]()
+
+![310737958-33a2ae89-7e9d-478e-b9ad-1b6d4363d1ce](https://github.com/user-attachments/assets/9b8dc3d1-5550-4a1a-9f1a-91aaafd96b9a)
 
 
 # RESULT:
